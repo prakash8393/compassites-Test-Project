@@ -1,0 +1,25 @@
+PODS:
+  - HanekeSwift (0.10.1)
+  - ImageSlideshow (0.6):
+    - ImageSlideshow/Core (= 0.6)
+  - ImageSlideshow/Core (0.6)
+  - ImageSlideshow/SDWebImage (0.6):
+    - ImageSlideshow/Core
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - HanekeSwift
+  - ImageSlideshow (~> 0.6)
+  - ImageSlideshow/SDWebImage
+
+SPEC CHECKSUMS:
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  ImageSlideshow: 06bfd96b5e56264d2d9d38262b73e32034b85288
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 620445dd2ec2e690db7c243b3dc40fee2d55f0a4
+
+COCOAPODS: 1.0.1

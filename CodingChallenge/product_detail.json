@@ -1,0 +1,547 @@
+{
+  "status": "200",
+  "auth_key": "id11uwy1w1wkwlw=1wjw",
+  "productdetail": {
+    "discount": "0",
+    "title": "The  Ring",
+    
+    "shortDesc": "Diamond Ring In 18Kt White Gold",
+    "wishlistStatus": false,
+    "assets": [
+      {
+        "size": "538538",
+        "position": 0,
+        "assetId": "1815",
+        "viewType": "image",
+        "imgUri": "http://www.swarovski.com/is-bin/intershop.static/WFS/SCO-Media-Site/-/-/publicimages/CG/B2C/PROD/600/Swarovski-Fresh-Ring-5251684-W600.jpg",
+        "videoUri": null
+      },
+      {
+        "size": "538538",
+        "position": 1,
+        "assetId": "1815",
+        "viewType": "image",
+        "imgUri": "http://www.swarovski.com/is-bin/intershop.static/WFS/SCO-Media-Site/-/-/publicimages/CG/B2C/PROD/600/Swarovski-Fresh-Ring-5251684-W600.jpg",
+        "videoUri": null
+      },
+      {
+        "size": "538538",
+        "position": 2,
+        "assetId": "1815",
+        "viewType": "image",
+        "imgUri": "http://www.swarovski.com/is-bin/intershop.static/WFS/SCO-Media-Site/-/-/publicimages/CG/B2C/PROD/600/Swarovski-Fresh-Ring-5251684-W600.jpg",
+        "videoUri": null
+      },
+      {
+        "size": "538538",
+        "position": 3,
+        "assetId": "1815",
+        "viewType": "image",
+        "imgUri": "http://www.swarovski.com/is-bin/intershop.static/WFS/SCO-Media-Site/-/-/publicimages/CG/B2C/PROD/600/Swarovski-Fresh-Ring-5251684-W600.jpg",
+        "videoUri": null
+      },
+      {
+        "size": "538538",
+        "position": 4,
+        "assetId": "1815",
+        "viewType": "image",
+        "imgUri": "http://www.swarovski.com/is-bin/intershop.static/WFS/SCO-Media-Site/-/-/publicimages/CG/B2C/PROD/600/Swarovski-Fresh-Ring-5251684-W600.jpg",
+        "videoUri": null
+      },
+      {
+        "size": "538538",
+        "position": 5,
+        "assetId": "1815",
+        "viewType": "image",
+        "imgUri": "http://www.swarovski.com/is-bin/intershop.static/WFS/SCO-Media-Site/-/-/publicimages/CG/B2C/PROD/600/Swarovski-Fresh-Ring-5251684-W600.jpg",
+        "videoUri": null
+      }
+    ],
+    "Variants": [
+      {
+        "size": "10",
+        "totalPrice": "99723",
+        "discount": "0",
+        "productCode": "685312",
+        "totalPriceAfterDiscount": "99723",
+        "priceBreakup": {
+          "GOLD": "5998.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "1859",
+          "VAT (1%)": "987"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "14",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "12",
+        "totalPrice": "100061",
+        "discount": "0",
+        "productCode": "685312",
+        "totalPriceAfterDiscount": "100061",
+        "priceBreakup": {
+          "GOLD": "6254.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "1938",
+          "VAT (1%)": "990"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "14",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "15",
+        "totalPrice": "100588",
+        "discount": "0",
+        "productCode": "685312",
+        "totalPriceAfterDiscount": "100588",
+        "priceBreakup": {
+          "GOLD": "6652.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "2062",
+          "VAT (1%)": "995"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "14",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "20",
+        "totalPrice": "101455",
+        "discount": "0",
+        "productCode": "685312",
+        "totalPriceAfterDiscount": "101455",
+        "priceBreakup": {
+          "GOLD": "7307.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "2265",
+          "VAT (1%)": "1004"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "14",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "10",
+        "totalPrice": "88361",
+        "discount": "0",
+        "productCode": "685313",
+        "totalPriceAfterDiscount": "88361",
+        "priceBreakup": {
+          "GOLD": "5998.00",
+          "DIAMOND": "79630.00",
+          "MAKING CHARGES": "1859",
+          "VAT (1%)": "874"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "14",
+          "diamondQuality": "VS GH"
+        }
+      },
+      {
+        "size": "12",
+        "totalPrice": "88700",
+        "discount": "0",
+        "productCode": "685313",
+        "totalPriceAfterDiscount": "88700",
+        "priceBreakup": {
+          "GOLD": "6254.00",
+          "DIAMOND": "79630.00",
+          "MAKING CHARGES": "1938",
+          "VAT (1%)": "878"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "14",
+          "diamondQuality": "VS GH"
+        }
+      },
+      {
+        "size": "15",
+        "totalPrice": "89227",
+        "discount": "0",
+        "productCode": "685313",
+        "totalPriceAfterDiscount": "89227",
+        "priceBreakup": {
+          "GOLD": "6652.00",
+          "DIAMOND": "79630.00",
+          "MAKING CHARGES": "2062",
+          "VAT (1%)": "883"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "14",
+          "diamondQuality": "VS GH"
+        }
+      },
+      {
+        "size": "20",
+        "totalPrice": "90094",
+        "discount": "0",
+        "productCode": "685313",
+        "totalPriceAfterDiscount": "90094",
+        "priceBreakup": {
+          "GOLD": "7307.00",
+          "DIAMOND": "79630.00",
+          "MAKING CHARGES": "2265",
+          "VAT (1%)": "892"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "14",
+          "diamondQuality": "VS GH"
+        }
+      },
+      {
+        "size": "10",
+        "totalPrice": "83437",
+        "discount": "0",
+        "productCode": "685314",
+        "totalPriceAfterDiscount": "83437",
+        "priceBreakup": {
+          "GOLD": "9070.00",
+          "DIAMOND": "70730.00",
+          "MAKING CHARGES": "2811",
+          "VAT (1%)": "826"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "SI GH"
+        }
+      },
+      {
+        "size": "12",
+        "totalPrice": "83952",
+        "discount": "0",
+        "productCode": "685314",
+        "totalPriceAfterDiscount": "83952",
+        "priceBreakup": {
+          "GOLD": "9459.00",
+          "DIAMOND": "70730.00",
+          "MAKING CHARGES": "2932",
+          "VAT (1%)": "831"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "SI GH"
+        }
+      },
+      {
+        "size": "15",
+        "totalPrice": "84739",
+        "discount": "0",
+        "productCode": "685314",
+        "totalPriceAfterDiscount": "84739",
+        "priceBreakup": {
+          "GOLD": "10054.00",
+          "DIAMOND": "70730.00",
+          "MAKING CHARGES": "3116",
+          "VAT (1%)": "839"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "SI GH"
+        }
+      },
+      {
+        "size": "20",
+        "totalPrice": "86042",
+        "discount": "0",
+        "productCode": "685314",
+        "totalPriceAfterDiscount": "86042",
+        "priceBreakup": {
+          "GOLD": "11039.00",
+          "DIAMOND": "70730.00",
+          "MAKING CHARGES": "3422",
+          "VAT (1%)": "851"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "SI GH"
+        }
+      },
+      {
+        "size": "10",
+        "totalPrice": "103787",
+        "discount": "0",
+        "productCode": "685315",
+        "totalPriceAfterDiscount": "103787",
+        "priceBreakup": {
+          "GOLD": "9070.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "2811",
+          "VAT (1%)": "1027"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "12",
+        "totalPrice": "104302",
+        "discount": "0",
+        "productCode": "685315",
+        "totalPriceAfterDiscount": "104302",
+        "priceBreakup": {
+          "GOLD": "9459.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "2932",
+          "VAT (1%)": "1032"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "15",
+        "totalPrice": "105089",
+        "discount": "0",
+        "productCode": "685315",
+        "totalPriceAfterDiscount": "105089",
+        "priceBreakup": {
+          "GOLD": "10054.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "3116",
+          "VAT (1%)": "1040"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "20",
+        "totalPrice": "106393",
+        "discount": "0",
+        "productCode": "685315",
+        "totalPriceAfterDiscount": "106393",
+        "priceBreakup": {
+          "GOLD": "11039.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "3422",
+          "VAT (1%)": "1053"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "10",
+        "totalPrice": "92426",
+        "discount": "0",
+        "productCode": "685316",
+        "totalPriceAfterDiscount": "92426",
+        "priceBreakup": {
+          "GOLD": "9070.00",
+          "DIAMOND": "79630.00",
+          "MAKING CHARGES": "2811",
+          "VAT (1%)": "915"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "VS GH"
+        }
+      },
+      {
+        "size": "12",
+        "totalPrice": "92941",
+        "discount": "0",
+        "productCode": "685316",
+        "totalPriceAfterDiscount": "92941",
+        "priceBreakup": {
+          "GOLD": "9459.00",
+          "DIAMOND": "79630.00",
+          "MAKING CHARGES": "2932",
+          "VAT (1%)": "920"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "VS GH"
+        }
+      },
+      
+      {
+        "size": "15",
+        "totalPrice": "105089",
+        "discount": "0",
+        "productCode": "129243",
+        "totalPriceAfterDiscount": "105089",
+        "priceBreakup": {
+          "GOLD": "10054.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "3116",
+          "VAT (1%)": "1040"
+        },
+        "selectedCustomization": {
+          "metalColor": "White",
+          "metalPurity": "18",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "20",
+        "totalPrice": "106393",
+        "discount": "0",
+        "productCode": "129243",
+        "totalPriceAfterDiscount": "106393",
+        "priceBreakup": {
+          "GOLD": "11039.00",
+          "DIAMOND": "90879.00",
+          "MAKING CHARGES": "3422",
+          "VAT (1%)": "1053"
+        },
+        "selectedCustomization": {
+          "metalColor": "White",
+          "metalPurity": "18",
+          "diamondQuality": "VVS EF"
+        }
+      },
+      {
+        "size": "10",
+        "totalPrice": "92426",
+        "discount": "0",
+        "productCode": "129244",
+        "totalPriceAfterDiscount": "92426",
+        "priceBreakup": {
+          "GOLD": "9070.00",
+          "DIAMOND": "79630.00",
+          "MAKING CHARGES": "2811",
+          "VAT (1%)": "915"
+        },
+        "selectedCustomization": {
+          "metalColor": "White",
+          "metalPurity": "18",
+          "diamondQuality": "VS GH"
+        }
+      },
+      {
+        "size": "12",
+        "totalPrice": "92941",
+        "discount": "0",
+        "productCode": "129244",
+        "totalPriceAfterDiscount": "92941",
+        "priceBreakup": {
+          "GOLD": "9459.00",
+          "DIAMOND": "79630.00",
+          "MAKING CHARGES": "2932",
+          "VAT (1%)": "920"
+        },
+        "selectedCustomization": {
+          "metalColor": "White",
+          "metalPurity": "18",
+          "diamondQuality": "VS GH"
+        }
+      },
+      {
+        "size": "15",
+        "totalPrice": "93728",
+        "discount": "0",
+        "productCode": "129244",
+        "totalPriceAfterDiscount": "93728",
+        "priceBreakup": {
+          "GOLD": "10054.00",
+          "DIAMOND": "79630.00",
+          "MAKING CHARGES": "3116",
+          "VAT (1%)": "928"
+        },
+        "selectedCustomization": {
+          "metalColor": "White",
+          "metalPurity": "18",
+          "diamondQuality": "VS GH"
+        }
+      },
+      {
+        "size": "15",
+        "totalPrice": "63642",
+        "discount": "0",
+        "productCode": "1049399",
+        "totalPriceAfterDiscount": "63642",
+        "priceBreakup": {
+          "GOLD": "10054.00",
+          "DIAMOND": "49842.00",
+          "MAKING CHARGES": "3116",
+          "VAT (1%)": "630"
+        },
+        "selectedCustomization": {
+          "metalColor": "Yellow",
+          "metalPurity": "18",
+          "diamondQuality": "SI IJ"
+        }
+      }
+      
+    ],
+    "Customizations": {
+      "MetalPuritiesForEachColor": {
+        "White": [
+          14,
+          18
+        ],
+        "Yellow": [
+          14,
+          18
+        ]
+      },
+      "DiamondQuality": [
+        "SI IJ",
+        "SI GH",
+        "VS GH",
+        "VVS EF"
+      ],
+      "MetalColors": [
+        "White",
+        "Yellow"
+      ],
+      "diamondMetalName": "DIAMOND",
+      "sizes": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    }
+  }
+}
